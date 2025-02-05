@@ -40,13 +40,16 @@ correspondientes períodos intermedios, que la asamblea de accionistas que consi
 financieros de ese cierre de ejercicio, debe expedirse respecto de la aplicación de lo dispuesto en 
 este inciso e incluir la correspondiente restricción en cuanto a la distribución de los resultados no 
 asignados.
+
 d) Decisiones sociales relacionadas con los estados financieros:
 Los estados financieros preparados conforme lo dispuesto en el presente apartado deberán ser 
 susceptibles de las aprobaciones societarias correspondientes.
+
 e) Expresión en moneda constante de las distribuciones de utilidades:
 La distribución de utilidades, deberán ser tratadas en la moneda de fecha de celebración de la 
 asamblea de accionistas mediante la utilización del índice de precios correspondiente al mes 
 anterior a su reunión.
+
 f) Reseñas informativas que acompañen a los estados financieros trimestrales o anuales 
 correspondientes a ejercicios y/o periodos ajustados por inflación:
 Se presentarán, como mínimo, los saldos comparativos con el ejercicio/período anterior, ambos en 
@@ -57,27 +60,34 @@ comparativos preparados de acuerdo a lo dispuesto en este apartado.
 Las disposiciones contenidas en el presente apartado no resultan aplicables a los sujetos 
 comprendidos en los artículos 2º, 3º y 4º del Capítulo I del Título IV de estas Normas, los que se 
 regirán por las normas que establezcan sus respectivos organismos de control.
+
 2. Disposiciones generales relativas a la responsabilidad del Directorio en la aprobación de estados 
 financieros en los que se hayan utilizado valores razonables para la medición primaria de partidas 
 integrantes del activo o del pasivo.
+
 a) La aprobación por el Directorio de una emisora, de estados financieros que incluyan activos y 
 pasivos medidos a su valor razonable como criterio primario de medición según lo establecido en 
 las NIIF para el caso de una entidad identificada en el artículo 1° o de las normas contables 
 profesionales vigentes para el caso de una entidad identificada en el artículo 2°, implica la existencia
 de:
+
 i. Apropiada documentación de respaldo de dicha medición.
+
 ii. Existencia de una política contable escrita y aprobada por el mismo órgano de administración, 
 que describa el método o la técnica de valuación adoptada, ya sea en los casos en que la norma 
 indique la utilización de “valor razonable”, para caracterizar la forma de estimarlo para una partida 
 en particular, o cuando enuncie alternativas de medición para justificar y describir la forma de 
 aplicación de la que se haya seleccionado.
+
 iii. Aplicación de mecanismos de monitoreo y confirmación a nivel gerencial de que dicha política 
 contable haya sido aplicada en la preparación de los estados financieros.
+
 b) Lo dispuesto en el apartado a) anterior será también de aplicación en los casos en que la emisora 
 haya optado por la utilización del modelo de revaluación (aplicable a las entidades identificadas en 
 el artículo 1°, para la medición de elementos de propiedades, planta y equipo y activos intangibles, 
 y a las entidades identificadas en el artículo 2° para la medición de bienes de uso excepto activos 
 biológicos), en función de lo que establece el apartado 3 siguiente.
+
 En consecuencia, la aprobación de estados financieros correspondientes al primer trimestre en que 
 se haya aplicado por primera vez el modelo de revaluación a un activo o clase de activos implicará 
 que el Directorio –como política de control rutinario- habrá confirmado que el área responsable de 
@@ -94,27 +104,33 @@ exhaustivo y fundamentado de los elementos considerados que respalde su conclusi
 informe deberá ser tratado y aprobado por el Directorio de la sociedad previamente a la aprobación 
 de los estados financieros. Igual confirmación implicará la aprobación al cierre de cada ejercicio 
 posterior de los estados financieros de la emisora.
+
 Asimismo, al cierre de cada ejercicio, la aprobación por el Directorio de los estados financieros 
 implicará también que se ha documentado debidamente la circunstancia de no haber ocurrido 
 variaciones significativas en los valores razonables de los bienes medidos en base al modelo de 
 revaluación, o de la existencia de tales cambios y por lo tanto acerca de la necesidad de contabilizar 
 una nueva revaluación.
+
 c) En la aplicación de los criterios de medición a que se refiere el apartado anterior, la 
 documentación de respaldo deberá reunir condiciones tales que no originen una limitación en el 
 alcance de la tarea que deba ser explicitada por la Comisión Fiscalizadora o el Consejo de
 Vigilancia en sus informes sobre los estados financieros o por el auditor externo en su informe de 
 auditoría sobre tales estados.
+
 3. Disposiciones particulares relativas a la responsabilidad del Directorio en la aprobación de 
 estados financieros en los que se haya aplicado el modelo de revaluación para la medición de 
 elementos de propiedades, planta y equipo y en aquellos en que se haya determinado el valor 
 razonable de las propiedades de inversión.
 Disposición aplicable a las entidades identificadas en los artículos 1° y 2°:
+
 La aprobación por el Directorio de una emisora, de estados financieros que incluyan elementos de 
 propiedades, planta y equipo medidos en base al modelo de revaluación según la alternativa 
 establecida en las NIIF o en las normas contables profesionales, implica la aplicación del siguiente 
 orden para la selección del método o la técnica de medición:
+
 a) Bienes para los que existe un mercado activo en su condición actual: valor de mercado 
 (debidamente documentado) por la venta en dicho mercado de los bienes motivo de la revaluación.
+
 b) Bienes para los que no existe un mercado activo en su condición actual, pero existe dicho 
 mercado activo para bienes nuevos (sin uso) equivalentes en capacidad de servicio a los que son 
 motivo de la revaluación: valor de mercado (debidamente documentado) por la venta en dicho 
@@ -127,12 +143,16 @@ punto de partida para determinar los valores residuales equivalentes. Para el c�
 depreciaciones acumuladas se deberá considerar la incidencia de todos los factores que 
 contribuyen a su mejor determinación, entre ellos, desgaste, deterioro físico, desgaste funcional, 
 obsolescencia o deterioro tecnológico.
+
 c) Bienes para los que no exista un mercado activo en las formas previstas en los apartados a) y
+
 b) anteriores, que incluyen bienes de características particulares o que normalmente podrían ser 
 vendidos como parte de una unidad de negocios en funcionamiento y no en forma individual (por 
 ejemplo, una línea de producción) u otro tipo de bienes:
+
 (i) valor estimado a partir de la utilización de técnicas de medición que, con base en importes futuros 
 (por ejemplo, flujos de efectivo o ingresos), arriban a valores del presente o descontados;o
+
 (ii) valor estimado a partir de un costo de reposición, pero computando las depreciaciones que 
 correspondan según la vida útil ya consumida de los bienes.
 La determinación de clases de activos para las que una emisora resuelva utilizar el modelo de 
