@@ -16,6 +16,7 @@ una fila que muestre la absorción de resultados no asignados, y otra fila con l
 al inicio; todo ello ad referéndum de la próxima asamblea anual ordinaria de accionistas.
 Asimismo, deberá dejarse constancia en nota a los estados financieros si se ha ejercido la opción 
 mencionada.
+
 c) Superávit o saldo de revaluación de propiedad, planta y equipo:
 Cuando en virtud del mecanismo de ajuste por inflación establecido en las normas contables 
 aplicables, dicho superávit o saldo por revaluación se hubiera reclasificado a resultados no 
